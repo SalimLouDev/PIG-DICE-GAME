@@ -3,7 +3,10 @@
 
 <div align=center><span style="color:#000; font-family: 'montserrat';">Thanks for visinting my repo ! </span></div>
 
-<div style="text-align:center"><img src="https://media.giphy.com/media/f9GvNg0JvjA1782VMm/giphy.gif" /></div>
+<p align="center">
+  <img src="https://media.giphy.com/media/f9GvNg0JvjA1782VMm/giphy.gif" >
+</p>
+
 
 
 <span style="color:#000; font-family: 'montserrat';">I think its good to see the rules if you dont know about it :</span>
