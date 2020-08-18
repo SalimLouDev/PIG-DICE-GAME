@@ -5,12 +5,12 @@
 
 <div style="text-align:center"><img src="https://media.giphy.com/media/f9GvNg0JvjA1782VMm/giphy.gif" /></div>
 
-
+:heart:
 
 
 <span style="color:#000; font-family: 'montserrat';">I think its good to see the rules if you dont know about it :</span>
 
-[![Youtube video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=gMFMpC3mC_0)
+[![Youtube video](https://www.youtube.com/watch?v=gMFMpC3mC_0)
 
 
 <span style="color:#000; font-family: 'montserrat';">This repo is about a simple dice game created using HTML, CSS and JavaScript.
