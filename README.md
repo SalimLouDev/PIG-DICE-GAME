@@ -1,6 +1,6 @@
 <div style="text-align:center"><img src="PigGameDice.gif" /></div>
 
-#                                    :blue_heart::heart::green_heart: PIG DICE GAME :green_heart::heart::blue_heart:  
+#                                                           :blue_heart::heart::green_heart: PIG DICE GAME :green_heart::heart::blue_heart:  
 
 <div align=center><span style="color:#000; font-family: 'montserrat';">Thanks for visinting my repo ! </span></div>
 
