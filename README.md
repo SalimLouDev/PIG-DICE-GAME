@@ -1,7 +1,7 @@
 <div style="text-align:center"><img src="PigGameDice.gif" /></div>
-#<div align=center>:blue_heart::heart::green_heart: <span style="color:blue; font-family: 'montserrat';">PIG</span> <span style="color:red; font-family: 'montserrat';">DICE</span> <span style="color:green; font-family: 'montserrat';">GAME</span> :green_heart::heart::blue_heart:</div>  
+<div align=center>:blue_heart::heart::green_heart: <span style="color:blue; font-family: 'montserrat';">PIG</span> <span style="color:red; font-family: 'montserrat';">DICE</span> <span style="color:green; font-family: 'montserrat';">GAME</span> :green_heart::heart::blue_heart:</div>  
 
-#<div align=center><span style="color:#000; font-family: 'montserrat';">Thanks for visinting my repo ! </span></div>
+<div align=center><span style="color:#000; font-family: 'montserrat';">Thanks for visinting my repo ! </span></div>
 
 <div style="text-align:center"><img src="https://media.giphy.com/media/f9GvNg0JvjA1782VMm/giphy.gif" /></div>
 
