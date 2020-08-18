@@ -32,7 +32,6 @@ This tag will link and reference the Icons will use in this project from : <a hr
 ```
 <span style="color:black; font-family: 'montserrat';">The onload attribute allow the starting of the background music immediately after the browser finishes loading the website.</span>
 
-</span>
 ```html
 <button class="btn-new" onclick="newGame()"><i class="ion-ios-plus-outline"></i>New game</button>
 <button class="btn-roll" id="btnroll" onclick="rollTheDice()"><i class="ion-ios-loop"></i>Roll dice</button>
