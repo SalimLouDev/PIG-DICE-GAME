@@ -8,7 +8,7 @@
 
 <span style="color:#000; font-family: 'montserrat';">I think its good to see the rules if you dont know about it :</span>
 
-[!Youtube video](https://www.youtube.com/watch?v=gMFMpC3mC_0)
+[Youtube video](https://www.youtube.com/watch?v=gMFMpC3mC_0)
 
 
 <span style="color:#000; font-family: 'montserrat';">This repo is about a simple dice game created using HTML, CSS and JavaScript.
@@ -27,9 +27,6 @@ Here we are explaining the main lines in this project :
 This tag will link and reference the Icons will use in this project from : <a href='https://ionicframework.com'>ionicframework.com</a>. <br>
 </span>
 
-<span style="color:#fff; font-family: 'montserrat';">
-This jgjggj
-</span>
 ```html
 <body onload="startSoundOnLoad()">
 ```
@@ -124,7 +121,6 @@ button:focus { outline: none; }
 -The<code>@keyframes</code> rule specifies the animation code,
 The animation is created by gradually changing from one set of CSS styles to another,During the animation, you can change the set of CSS styles many times.</span>
 
-<span style="color:#fff; font-family: 'montserrat';">2. CSS :</span>
 <span style="color:orange; font-family: 'montserrat';">2. JavaScript :</span>
 
 ```javaScript
@@ -132,8 +128,7 @@ document.getElementById("DiceImg1").style.display = "none";
 ```
 <span style="color:black; font-family: 'montserrat';">
 It takes the tag that has the "DIceImg1" and change its CSS style display to "none" and that will disapear that tag in html.</span>
-<span style="color:#fff; font-family: 'montserrat';">
-Here the creation of the audio Object.</span>
+
 ```javaScript
 var myMusic = new Audio("8bit.mp3");
 ```
