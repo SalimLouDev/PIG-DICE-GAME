@@ -1,5 +1,4 @@
 <div style="text-align:center"><img src="PigGameDice.gif" /></div>
-<span style="color:#000; font-family: 'montserrat';">WELCOM TO</span>
 #<div align=center>:blue_heart::heart::green_heart: <span style="color:blue; font-family: 'montserrat';">PIG</span> <span style="color:red; font-family: 'montserrat';">DICE</span> <span style="color:green; font-family: 'montserrat';">GAME</span> :green_heart::heart::blue_heart:</div>  
 
 #<div align=center><span style="color:#000; font-family: 'montserrat';">Thanks for visinting my repo ! </span></div>
@@ -11,7 +10,7 @@
 
 <span style="color:#000; font-family: 'montserrat';">I think its good to see the rules if you dont know about it :</span>
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=gMFMpC3mC_0)
+[![Youtube video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=gMFMpC3mC_0)
 
 
 <span style="color:#000; font-family: 'montserrat';">This repo is about a simple dice game created using HTML, CSS and JavaScript.
